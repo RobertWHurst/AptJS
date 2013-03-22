@@ -1,0 +1,35 @@
+{
+	"name": "aptjs",
+	"description": "An apt solution for control flow JavaScript. AptJS offers parallel and serial execution and mapping in a painless way. It also offers super slick error handling.",
+	"version": "0.1.2",
+	"main": "./apt.js",
+	"keywords": [
+		"Control Flow",
+		"Map"
+	],
+	"maintainers": [
+		{
+			"name": "Robert Hurst",
+			"email": "RobertWHurst@Gmail.com",
+			"web": "http://github.com/RobertWHurst"
+		}
+	],
+	"bugs": {
+		"web": "https://github.com/RobertWHurst/AptJS/issues"
+	},
+	"repositories": [
+		{
+			"type": "git",
+			"url": "git@github.com:RobertWHurst/AptJS.git"
+		}
+	],
+	"licenses": [
+		{
+			"name": "BSD License",
+			"url": "https://raw.github.com/RobertWHurst/AptJS/master/license.txt"
+		}
+	],
+	"dependencies": {
+		"lucidjs": "2.3.1"
+	}
+}
