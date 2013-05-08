@@ -1,7 +1,7 @@
 {
 	"name": "aptjs",
-	"description": "An apt solution for control flow JavaScript. AptJS offers parallel and serial execution and mapping in a painless way. It also offers super slick error handling.",
-	"version": "0.1.2",
+	"description": "An apt solution for control flow JavaScript. AptJS offers parallel and serial execution and mapping in a painless way.",
+	"version": "0.1.0",
 	"main": "./apt.js",
 	"keywords": [
 		"Control Flow",
@@ -30,6 +30,6 @@
 		}
 	],
 	"dependencies": {
-		"lucidjs": "2.3.1"
+		"lucidjs": "2.3.x"
 	}
 }

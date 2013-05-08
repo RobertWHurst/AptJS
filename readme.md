@@ -1,9 +1,9 @@
 AptJS
 =====
 
-**PLEASE NOTE THESE DOCS ARE INCOMPLETE**. They should be finished in a day or two. For now the navigation is missing some links. There may be various errors as well. Examples will be added to above the docs by the end of the week.
-
-An apt solution for control flow JavaScript.
+AptJS brings control flow to your application in an evented style api. It offers
+several features unique features such as, an evented API, error recovery, 1 to
+1 input output.
 
 #### Navigation
 * [Getting Started](#getting-started)
